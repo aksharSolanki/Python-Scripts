@@ -1,0 +1,5 @@
+
+This programs efficiently takes input from the users and asks them what sort of operation needs to be executed on that.
+After doing the calculations in no time, it displays the results to the user and also catches if there are any exceptions or errors.
+For example if user tries to divide any integer by 0, the program would crash because of ZeroDivisionError, however, this program,
+catches the errors and exceptions and handles them. While also giving a meaningful message to the user.
