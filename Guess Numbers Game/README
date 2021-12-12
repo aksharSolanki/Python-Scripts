@@ -1,0 +1,3 @@
+In this python game on terminal, users have to guess a number between a specified range.
+Until the user guess the correct number/integer they are provided with a clue to guess the number.
+On correct guess of the number, the game terminates and asks the users if they want to play again.
