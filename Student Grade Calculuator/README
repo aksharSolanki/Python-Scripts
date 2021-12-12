@@ -1,0 +1,3 @@
+This program allows students to enter their midterm, final and assignment grades to get a full picture of their final grades.
+It efficiently does all the calculations and displays the information.
+It handles all the exceptions and errors that may occur. 
