@@ -51,7 +51,6 @@ def validate(guess, gen_num):
 create_line()
 print("At any point if you wish to not play the game, press: n")
 num_generator()
-print("Guess: " + str(guess) + " Generated num: " + str(gen_num))
 take_input()
 
 
