@@ -1,0 +1,7 @@
+This script targets program coordinators in a system. The program runs to allow various functionalities. 
+Coordinators can enter new students into the system. The data is then permanently stored into a text file in the same directory.
+Student information include name, midterm grades and final grade. 
+There is the feature of finding students by their name.
+They can also update the data entered about the students using one of the options.
+The program allows users to view the student with highest grades and the lowest grade.
+Any student can be deleted from the system. But be sure to make all the necessary changes right before saving the transactions.
